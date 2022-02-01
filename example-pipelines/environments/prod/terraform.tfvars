@@ -1,4 +1,4 @@
-project_id = "PROJECT_ID"
+project_id = "jenkins-339917"
 environment = "prod"
 subnet1_region = "us-central1"
 subnet1_zone = "us-central1-a"
